@@ -1,0 +1,21 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin Path	File Offset (s)	Common Name	Species Code	Confidence
+1	Waveform 1	1	33.000000000	36.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	33.0000	Red-bellied Woodpecker	rebwoo	0.2535
+1	Spectrogram 1	1	33.000000000	36.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	33.0000	Red-bellied Woodpecker	rebwoo	0.2535
+2	Waveform 1	1	174.000000000	177.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	174.0000	American Goldfinch	amegfi	0.3931
+2	Spectrogram 1	1	174.000000000	177.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	174.0000	American Goldfinch	amegfi	0.3931
+3	Waveform 1	1	177.000000000	180.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	177.0000	American Goldfinch	amegfi	0.3829
+3	Spectrogram 1	1	177.000000000	180.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	177.0000	American Goldfinch	amegfi	0.3829
+4	Waveform 1	1	180.000000000	183.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	180.0000	American Goldfinch	amegfi	0.3166
+4	Spectrogram 1	1	180.000000000	183.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	180.0000	American Goldfinch	amegfi	0.3166
+5	Waveform 1	1	183.000000000	186.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	183.0000	American Goldfinch	amegfi	0.3512
+5	Spectrogram 1	1	183.000000000	186.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	183.0000	American Goldfinch	amegfi	0.3512
+6	Waveform 1	1	189.000000000	192.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	189.0000	Wild Turkey	wiltur	0.3101
+6	Spectrogram 1	1	189.000000000	192.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	189.0000	Wild Turkey	wiltur	0.3101
+7	Waveform 1	1	246.000000000	249.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	246.0000	American Crow	amecro	0.5514
+7	Spectrogram 1	1	246.000000000	249.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	246.0000	American Crow	amecro	0.5514
+8	Waveform 1	1	246.000000000	249.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	246.0000	Red-eyed Vireo	reevir1	0.3715
+8	Spectrogram 1	1	246.000000000	249.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	246.0000	Red-eyed Vireo	reevir1	0.3715
+9	Waveform 1	1	294.000000000	297.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	294.0000	American Crow	amecro	0.2787
+9	Spectrogram 1	1	294.000000000	297.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	294.0000	American Crow	amecro	0.2787
+10	Waveform 1	1	300.000000000	303.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	300.0000	Wild Turkey	wiltur	0.6499
+10	Spectrogram 1	1	300.000000000	303.000000000	0.000	15000.000	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_100600_SSW01.WAV	300.0000	Wild Turkey	wiltur	0.6499

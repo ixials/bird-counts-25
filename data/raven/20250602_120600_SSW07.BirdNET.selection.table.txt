@@ -1,0 +1,10 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	24.0	27.0	0	15000	Great Crested Flycatcher	grcfly	0.3884	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	24.0
+2	Spectrogram 1	1	36.0	39.0	0	15000	Great Crested Flycatcher	grcfly	0.4321	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	36.0
+3	Spectrogram 1	1	48.0	51.0	0	15000	Great Crested Flycatcher	grcfly	0.5815	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	48.0
+4	Spectrogram 1	1	72.0	75.0	0	15000	Great Crested Flycatcher	grcfly	0.5617	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	72.0
+5	Spectrogram 1	1	90.0	93.0	0	15000	Veery	veery	0.2587	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	90.0
+6	Spectrogram 1	1	111.0	114.0	0	15000	Red-bellied Woodpecker	rebwoo	0.5008	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	111.0
+7	Spectrogram 1	1	144.0	147.0	0	15000	Common Grackle	comgra	0.2722	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	144.0
+8	Spectrogram 1	1	273.0	276.0	0	15000	American Goldfinch	amegfi	0.4842	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	273.0
+9	Spectrogram 1	1	285.0	288.0	0	15000	Red-winged Blackbird	rewbla	0.2714	/Users/lillianwang/Downloads/research/chris 25-6-2/20250602_120600_SSW07.WAV	285.0
