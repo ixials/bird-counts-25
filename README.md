@@ -22,4 +22,5 @@ Before running any notebook, follow these steps to make sure everything works co
 1. Each notebook begins with an installation cell that installs required Python packages. Run this cell first.
 2. Set parameters in the cell labeled **## Setting parameters**.
 3. Run helper/setup cells under **Helper functions**.
-4. Analysis cells (the rest of the notebook) can be run.
+
+Then the rest of the notebook can be run!
